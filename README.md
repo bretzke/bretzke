@@ -40,7 +40,10 @@
 
 ###
 
-<div align="left">
+<div align="left" style="display: inline-flex;">
+  <a href="https://www.bretzke.dev/" target="_blank">
+    <img src="https://www.bretzke.dev/favicon.ico" width="52" height="40" alt="site logo"  />
+  </a>
   <a href="https://www.linkedin.com/in/willian-bretzke" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
